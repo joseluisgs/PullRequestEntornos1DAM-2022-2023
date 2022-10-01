@@ -4,3 +4,4 @@ Profesor: José Luis González
 
 Alumnado:
 - Sergio Alvarez Herrera
+- Sergio Misas 
