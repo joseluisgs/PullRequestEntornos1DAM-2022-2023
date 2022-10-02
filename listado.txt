@@ -3,6 +3,7 @@ Listado de alumnado de 1DAM 2022-2023
 Profesor: José Luis González
 
 Alumnado: 
+- Fernando Rico García
 - Javier Quintero de Santos
 - Mario Bueno
 - Dawid Gruszka 
