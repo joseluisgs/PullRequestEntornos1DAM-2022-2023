@@ -2,7 +2,8 @@ Listado de alumnado de 1DAM 2022-2023
 
 Profesor: José Luis González
 
-Alumnado: 
+Alumnado:
+- Dawid Gruszka 
 - Angel Maroto Chivite
 - Mohamad El Sayed
 - Benjamin Ramos Aguirre
